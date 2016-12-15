@@ -1,0 +1,133 @@
+\begin{thebibliography}{10}
+
+\bibitem{haptics}
+Prototypes of virtual reality haptic gloves created.
+\newblock
+  \url{http://vr-zone.com/articles/prototypes-of-virtual-reality-haptic-gloves-created/104993.html}.
+
+\bibitem{photo1_sutehrland}
+acm.
+\newblock Ivan sutherland.
+\newblock \url{http://amturing.acm.org/photo/sutherland_3467412.cfm}.
+
+\bibitem{benton}
+Bradley Austin~Davis, Bryla Karen, and Phillips Alexander~Benton.
+\newblock {\em Oculus {Rift} in {Action}}.
+\newblock Manning Publications, August 2015.
+
+
+\bibitem{blackman}
+Sue Blackman.
+\newblock {\em Unity for {Absolute} {Beginners}}.
+\newblock Apress, June 2014.
+
+
+\bibitem{craig}
+Alan~B. Craig, William~R. Sherman, and Jeffrey~D. Will.
+\newblock {\em Developing {Virtual} {Reality} {Applications}}.
+\newblock Morgan Kaufmann, June 2009.
+
+
+\bibitem{fuchs1}
+Philippe Fuchs, Guillaume Moreau, and Pascal Guitton.
+\newblock {\em Virtual {Reality}: {Concepts} and {Technologies}}.
+\newblock CRC Press, July 2011.
+
+
+\bibitem{gobbetti}
+Enrico Gobbetti and Riccardo Scateni.
+\newblock Virtual reality: {Past}, present, and future.
+\newblock {\em Virtual environments in clinical psychology and neuroscience:
+  Methods and techniques in advanced patient-therapist interaction}, 1998.
+
+
+\bibitem{reticle}
+Google.
+\newblock Ivan sutherland.
+\newblock
+  \url{https://www.google.com/design/spec-vr/interactive-patterns/display-reticle.html}.
+
+\bibitem{hocking}
+Joseph Hocking.
+\newblock {\em Unity in {Action}: {Multiplatform} game development in {C}\#
+  with {Unity} 5}.
+\newblock Manning Publications, June 2015.
+
+
+\bibitem{jackson}
+Simon Jackson.
+\newblock {\em Unity 3D {UI} {Essentials}}.
+\newblock Packt Publishing, January 2015.
+
+
+\bibitem{lavieri}
+Dr~Edward Lavieri.
+\newblock {\em Getting {Started} with {Unity} 5}.
+\newblock Packt Publishing, May 2015.
+
+
+\bibitem{linowes}
+Jonathan Linowes.
+\newblock {\em Unity {Virtual} {Reality} {Projects}}.
+\newblock Packt Publishing, September 2015.
+
+
+\bibitem{pov}
+Pete Markiewicz.
+\newblock 6 reasons that virtual reality is suddenly on everyone's lips.
+\newblock
+  \url{https://owentertainment.biz/2015/11/21/6-reasons-that-virtual-reality-vr-is-suddenly-and-rightly-on-everyones-lips/}.
+
+\bibitem{CAVE}
+MiddleVR.
+\newblock What is vr?
+\newblock \url{http://www.middlevr.com/resources/what-is-vr/}.
+
+\bibitem{mihelj}
+Matja{\v z} Mihelj, Domen Novak, and Samo Begus.
+\newblock Virtual {Reality} {Technology} and {Applications}.
+\newblock In {\em Virtual {Reality} {Technology} and {Applications}}, number~68
+  in Intelligent {Systems}, {Control} and {Automation}: {Science} and
+  {Engineering}. Springer Netherlands, 2014.
+\newblock DOI: 10.1007/978-94-007-6910-6\_6.
+
+\bibitem{sound}
+NeuroVR.
+\newblock Ivan sutherland.
+\newblock
+  \url{http://www.neurovr.org/neurovr2/index.php?option=com_content&task=view&id=34&Itemid=46},
+  December 2006.
+
+\bibitem{oculus}
+Oculus.
+\newblock Oculus rift.
+\newblock \url{https://www.oculus.com/en-us/rift/}.
+
+\bibitem{okita}
+Alex Okita.
+\newblock Before {You} {Begin}.
+\newblock In {\em Learning {C}\# {Programming} with {Unity} 3D}. CRC Press,
+  January 2015.
+
+\bibitem{parisi}
+Tony Parisi.
+\newblock {\em Learning {Virtual} {Reality}}.
+\newblock O'Reilly Media, Inc., November 2015.
+
+
+\bibitem{applications}
+Alex Senson.
+\newblock Virtual reality in healthcare: Where's the innovation?
+\newblock
+  \url{http://www.openbiomedical.org/virtual-reality-in-healthcare-wheres-the-innovation/},
+  September 2015.
+
+\bibitem{cardboard}
+Alex Todd.
+\newblock Recombu's virtual reality goggles beat google cardboard to the punch
+  by five years.
+\newblock
+  \url{https://recombu.com/mobile/article/recombu-vr-goggles-vs-google-cardboard_M20570.html#},
+  June 2014.
+
+\end{thebibliography}
